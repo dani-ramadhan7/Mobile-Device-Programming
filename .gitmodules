@@ -1,0 +1,9 @@
+[submodule "Aplikasi_Penjualan"]
+	path = Aplikasi_Penjualan
+	url = https://github.com/dani-ramadhan7/Aplikasi_Penjualan
+[submodule "Kalkulator_Sederhana_2"]
+	path = Kalkulator_Sederhana_2
+	url = https://github.com/dani-ramadhan7/Kalkulator_Sederhana_2
+[submodule "Maps_Geocoder"]
+	path = Maps_Geocoder
+	url = https://github.com/dani-ramadhan7/Maps_Geocoder
